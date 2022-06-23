@@ -2,14 +2,17 @@
 
 ### react
 
-初期ファイル作成
+・初期ファイル作成
 
 npx create-react-app **name**
 
-WEBを開く
+・WEBを開く
 
 npx start
 
-react-beautiful-dndインストール
+・react-beautiful-dndインストール
 
 npm install react-beautiful-dnd
+
+・reactのバージョン確認
+npm list --depth=0
